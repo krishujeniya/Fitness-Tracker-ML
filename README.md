@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/krishujeniya/FitnessTracker)
-![GitHub contributors](https://img.shields.io/github/contributors/krishujeniya/FitnessTracker)
-![GitHub stars](https://img.shields.io/github/stars/krishujeniya/FitnessTracker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/krishujeniya/FitnessTracker?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/krishujeniya/Fitness-Tracker-ML)
+![GitHub contributors](https://img.shields.io/github/contributors/krishujeniya/Fitness-Tracker-ML)
+![GitHub stars](https://img.shields.io/github/stars/krishujeniya/Fitness-Tracker-ML?style=social)
+![GitHub forks](https://img.shields.io/github/forks/krishujeniya/Fitness-Tracker-ML?style=social)
 
 # FitnessTracker
 
